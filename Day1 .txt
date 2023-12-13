@@ -1,0 +1,34 @@
+Day1 
+Ques1:-JavaScript Questions  What are the different data types present in javascript?
+Ans:-JavaScript has 8 Datatypes
+1. String
+2. Number
+3. Bigint
+4. Boolean
+5. Undefined
+6. Null
+7. Symbol
+8. Object
+
+Ques2:-What are the JavaScript Engines?
+Ans:-
+V8 engine:-chrome
+Spindermonkey:-mozilla firefox
+Javascriptcore:- safari
+Chakra:- internet explorer
+
+Ques3:-Explain ECMA in JS.
+Ans:-ECMAScript is the official name of the language.
+ECMAScript versions have been abbreviated to ES1, ES2, ES3, ES5, and ES6.
+
+Ques4:-Why We use JavaScript?
+Ans:-JavaScript is a scripting language used to develop web pages. Developed in Netscape, JS allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions.
+
+Ques5:-What is JavaScript? And also Explain the histroy of JavaScript?
+Ans:-JavaScript is the programming language of the Web.
+JavaScript was invented by Brendan Eich in 1995.
+It was developed for Netscape 2, and became the ECMA-262 standard in 1997.
+After 2015 its comes with version ECMAScript2016 ,ECMAScript2017 by the year name
+
+Ques6:-What is DOM in js?      
+Ans:-DOM stands for document object model is a programming interface for web documents.The DOM represents the document as nodes and objects; that way, programming languages can interact with the page and helps to change document structure,style and content
